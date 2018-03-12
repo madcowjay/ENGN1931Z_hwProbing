@@ -1,0 +1,4 @@
+All supported PIDs found! (+5 points)
+Correct ambient air temperature detected. (+2 points) 
+Correct control module voltages detected. (+3 points) 
+Congratulations! You have successfully completed this homework assignment.
